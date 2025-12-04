@@ -1,0 +1,5 @@
+{
+  "name": "Image Gen",
+  "description": "A powerful image editing and generation tool powered by Gemini 2.5 Flash Image. Create new images from text or edit existing ones with natural language prompts.",
+  "requestFramePermissions": []
+}
